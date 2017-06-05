@@ -6,3 +6,4 @@ channels:
 
 dependencies:
   - sage
+  - python=2.7
